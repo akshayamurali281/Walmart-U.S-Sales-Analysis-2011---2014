@@ -1,5 +1,5 @@
 # Walmart-U.S-Sales-Analysis-2011---2014
-"Walmart US Sales Performance Analytics  2011-2014 | excel.MYSQL · Python · Power BI |  YoY variance analysis, forecasting,  KPI dashboard"
+"Walmart US Sales Performance Analytics  2011-2014 | Excel. MYSQL · Python · Power BI 
 Executive Summary
 This project evaluates transactional sales performance across Walmart US retail operations over a 4-year period (2011–2014). By cleaning raw transactional data in Excel, Python, querying data models via MySQL, and building an interactive dashboard in Power BI, the analysis isolates regional profitability drivers, identifies underperforming product categories, and projects revenue metrics.
 
@@ -13,7 +13,7 @@ Business Recommendations & Insights
 �Total Profit: $108.4K
 🛒Total Sales: $725.5K
 📦Total Cost: $617K
-�Top City Seattle – the highest profit contributor $30K
+�Top City Seattle – the highest profit contributor $30K
 📉Loss-Making Categories Machines and Bookcases
 📦Top Categories by Profit Copiers, Accessories, Binders
 ⏱Avg. Shipping Days: 3.9
